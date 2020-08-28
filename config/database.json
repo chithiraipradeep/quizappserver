@@ -1,0 +1,5 @@
+{
+    "db": {
+        "dbname": "mongodb+srv://kumar:kumar@nestjs-mqsq0.mongodb.net/quiz?retryWrites=true&w=majority"
+    }
+}
